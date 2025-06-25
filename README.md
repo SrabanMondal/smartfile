@@ -25,8 +25,7 @@ Organize, clean, analyze, flatten, and search your file system with surgical pre
 ### Option 1: Download Prebuilt Binary
 
 ```bash
-curl -L https://github.com/SrabanMondal/smartfile/releases/latest/download/smartfile.exe -o smartfile
-chmod +x smartfile
+curl -L -o smartfile.exe https://github.com/SrabanMondal/smartfile/releases/download/v1.0.0/smartfile-windows-amd64.exe
 ```
 
 ### Option 2: Build from Source
