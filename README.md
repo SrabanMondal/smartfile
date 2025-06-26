@@ -139,3 +139,4 @@ Only works safely on:
 ## Future Enhancements
 
 Adding semantic file search and directory index creation for fast retrievel.
+Extra feature: Records your file activity like a blackbox – modified, opened, deleted, and copied files – and lets you review or restore things you didn’t know you lost.
